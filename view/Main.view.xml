@@ -1,0 +1,11 @@
+<sap.ui.core.mvc:View controllerName="view.Main"
+                      xmlns="sap.m"
+                      xmlns:sap.ui.core.mvc="sap.ui.core.mvc" >
+    <Page title="OpenUI5 example">
+        <content>
+            <Table id="idAnimalsTable" noDataText="No Data">
+            <!-- render the data -->
+            </Table>
+        </content>
+    </Page>
+</sap.ui.core.mvc:View>

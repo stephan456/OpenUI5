@@ -1,0 +1,40 @@
+{
+  "AnimalCollection": [
+    {
+      "Class": "Mammal",
+      "Species": "Elephant",
+      "Name": "Bob",
+      "WeightMeasure": 5999,
+      "WeightUnit": "kg",
+      "Age": 30,
+      "Color": "Grey"
+    },
+    {
+      "Class": "Mammal",
+      "Species": "Tiger",
+      "Name": "Harry",
+      "WeightMeasure": 250,
+      "WeightUnit": "kg",
+      "Age": 11,
+      "Color": "Orange/Black"
+    },
+    {
+      "Class": "Fish",
+      "Species": "Goldfish",
+      "Name": "Alf",
+      "WeightMeasure": 70,
+      "WeightUnit": "g",
+      "Age": 2,
+      "Color": "Gold"
+    },
+    {
+      "Class": "Mammal",
+      "Species": "Polar Bear",
+      "Name": "Bernd",
+      "WeightMeasure": 400,
+      "WeightUnit": "kg",
+      "Age": 15,
+      "Color": "White"
+    }
+  ]
+}
