@@ -20,25 +20,25 @@
                 <headerToolbar>
                     <Toolbar>
                         <content>
-                            <Label text="Products"></Label>
+                            <Label text="Animals"></Label>
                         </content>
                     </Toolbar>
                 </headerToolbar>
                 <columns>
                     <Column width="12em">
                         <header>
-                            <Text text="Product" maxLines="0"></Text>
+                            <Text text="Animal" maxLines="0"></Text>
                         </header>
                     </Column>
                     <Column minScreenWidth="tablet" demandPopin="true">
                         <header>
-                            <Text text="Supplier" maxLines="0"></Text>
+                            <Text text="Name" maxLines="0"></Text>
                         </header>
                     </Column>
                     <Column hAlign="Right" minScreenWidth="tablet" demandPopin="true">
 
                         <header>
-                            <Text text="Dimensions" maxLines="0"></Text>
+                            <Text text="Age" maxLines="0"></Text>
                         </header>
                     </Column>
                     <Column hAlign="Center" minScreenWidth="tablet" demandPopin="true">
@@ -48,7 +48,7 @@
                     </Column>
                     <Column hAlign="Right">
                         <header>
-                            <Text text="Price" textAlign="Right" maxLines="0"></Text>
+                            <Text text="Color" textAlign="Right" maxLines="0"></Text>
                         </header>
                     </Column>
                 </columns>
